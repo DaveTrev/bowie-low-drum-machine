@@ -6,3 +6,4 @@
 ## Notes
 - Project inspired by and guided by javascript30.com
 - Drum samples from https://reverb.com/software/samples-and-loops/reverb/3798-drums-in-the-style-of-david-bowie-s-low
+- to give the keyboard keys number inputs, I used https://w3c.github.io/uievents/tools/key-event-viewer.html
